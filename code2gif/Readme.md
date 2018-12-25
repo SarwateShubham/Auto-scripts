@@ -1,4 +1,4 @@
-# code2gif tool
+# code2gif
 
 This is a tool to capture code execution in runtime and convert it to gifs which can be embedded in readme files on git projects.
 
