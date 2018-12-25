@@ -4,8 +4,8 @@ This is a tool to capture code execution in runtime and convert it to gifs which
 
 ### Tools used
 
-[asciinnema](https://asciinema.org/)
-[svg-term](https://github.com/marionebl/svg-term-cli)
+- [asciinnema](https://asciinema.org/)
+- [svg-term](https://github.com/marionebl/svg-term-cli)
 
 ### Example
 ![Alt text](./hello.svg)
